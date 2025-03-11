@@ -1,0 +1,71 @@
+{
+    "Introduction":{
+        "Melody":["Rising Semitone Motif","Mainly Diatonic With One Chromatic Note In Violin Melody","Oscillating Motive (Oboes And Violins)","Often Static","Some Triadic Movement","Three 4 Bar Phrases"],
+        "Articulation":["Moslty Legato","Some Slurred Staccato In Winds And Horns","Tenuto Chords Towards The End"],
+        "Dynamics":["fp At The Very Start","Mostly Quiet","Some Loud Chords","Crescendo Towards Chords"],
+        "Tonality":["C Major, However Tonality is Unclear At The Start","It Could Be Argued That There Are Passing Modulations to F Major and G Major (See Harmony)"],
+        "Structure":"A Single Self-Contained Section",
+        "Harmony":["Opens With Dominant 7th In F Major","Followed By Interupted Cadence In C Major","Then Perfect Candence In G Major","Chord Of G Major Then Becomes V In Key Of C Major","Frequent Primary Chords","Brief Secondary Dominant (V/vi) At The End Of Bar 9","Many Root Position Chords With Some In First Inversion"],
+        "Instrumentaion":["Pizzicato Strings At Opening","Acro (Bowed) Afterwards","Double And Triple Stops In Violins","Horns Play Pedal Notes On Tonic And Dominant, And Arpeggios"],
+        "Rhythm/Tempo/Metre":["Adagio Molto - Very Slow Tempo","4/4 Metre","Many Long Note Values, Up To And Including Semibreves","Set Against Shorter Note Values Down To Demisemiquavers Run into Following Section","Several Semiquaver Runs","Syncopated Chords In Woodwinds (Bars 8 And 10)","Rest Betweem Chords"],
+        "Texture":["Homophonic Opening","Mainly Melody And Accompaniment After That, With Melody In Violins","Violin 1 And 2 Doubled In Octaves","Oboes 1 And Clarinet 1 Doubling In Octaves","Bassoons Doubling With Cellos And Double Basses In Octaves","Flute Countermelody In Bar 5","Flutes, Oboes, Clarinets And Horns In Parallel Thirds (From Bar 7)"]
+    },
+    "Exposition":{
+        "Melody":{
+            "Motifs":["Bar 13-14","Bar 15","Upbeat to Bar 18"],
+            "1st Subject":["Triadic","Rising Semitone","Irregular Phrase Length","More Ascending"],
+            "Transition":["2x4 Bar Phrases; 2nd One Elaborated Version","Triadic Up","Conjunct Down","Then Elaborated Rising Scale"],
+            "2nd Subject":["More Diverse","More Descending","Repeated Notes","Balanced Phrasing","Oboe Countermelody With Acciaccaturas"]
+        },
+        "Articulation":["1st Subject Accents","2nd Subject Legato","Winds Slurred Staccato In 2nd Subject"],
+        "Dynamics":["sf","fp","1st Subject p","Transition ff","2nd Subject p, Then ff, Then pp","Crescendo","Diminuendo"],
+        "Tonality":["1st Subject C Major With Passing Modulaton To D Minor","Transition Modulates To G Major","2nd Subject G Major With Passing Modulaton To C Minor (Tonic Minor)"],
+        "Harmony":["Diatonic","Functional","Mainly Root Position","Perfect Candences","Candential 6/4 (End Of 1st Subject)","Dominant 7ths At Perfect Candences","Circle Of Fifths Letter B"],
+        "Instrumentaion":["Horns Play Tonic And Dominant Pedals","Timps Play Tonic And Dominant","Winds With Sustained Chords","String Tremolo","String Double And Triple Stops"],
+        "Rhythm/Tempo/Metre":["Fast Duple - Allegro Con Brio","2/2 (Cut Common Time)","Dotted Notes","Sustained ww Chords","Spells Of Continuous Quavers","Short Semiquaver Runs","Syncopation In 2nd Subject"],
+        "Texture":["Mainly Melody And Accompaniment","Some Chordal/Homophonic","Some Antiphonal","Some Parallel 3rds eg Flutes","Pedal Points","Dialogue between Flute And Oboe In 2nd Subject","Oboe Countermelody"]
+    },
+    "Development":{
+        "Melody":["Reuses Fragmanets Of Melodies From Exposition","Starts With Semitone Motif In Violins","Semitones Also in Flutes Bar 112-113"],
+        "Articulation":["Similar To Exposition And Coda With Wide Use Of Staccato","Contrasting With Legato Passages","Slurred Winds"],
+        "Dynamics":["fp","Generally Quiet To Start","Very Loud Towards Of the Section","Sudden Contrast,Especially Towards The End"],
+        "Tonality":["Tonality Ambiguous At Start - Accidentals Of Several Different Keys, But No Pefect Cadences, Bar 108-122",{"Modulations To Keys That Are Slighty More Distant":["C Minor (Tonic Minor) Bar 112","F Minor (Subdominant Minor) Bar 126","G Minor (Dominant Minor) Bar 152","E Major (Dominant Of A Minor, Which Is Relative Minor Of The Tonic, C Major"]},{"Modulation To A Remote Key":"Eb Major Bar 144"},"Quite A Lot Of Minor Tonality"],
+        "Structure":["Mostly 4 Or 8 Bar Phrases","Extra Bars Added Sometimes To Extend Dominants eg Bar 135"],
+        "Harmony":["Dominant Pedal In A Bars 160-172 In Horns and Trumpets","Circle Of Fifths Progression Bar 110-130","More 1st Inversion Chords Than Exposition eg Start Of Development","Mailny Diatonic And Functional, But Diminished 7th (Chromatic Chord) Bar 134 Over Dominant Pedal"],
+        "Instrumentaion":["String Tremolo","Flutes At The Top Of Their Register","Horn Pedal Points"],
+        "Rhythm/Tempo/Metre":["Tempo And Metre Same As Exposition And Code","All Rhythms Have Already Been Heard in Exposition","Section Ends With Long Nore Values In Winds"],
+        "Texture":["Monophonic At Times eg Start Of Section","Strings In Octave Runs With Eachother eg From Bar 160","Winds In Sustained Octaves With Eachother eg From Bar 171","Frequent Parallel 3rds ef Vloins from Bar 144, FLutes From Bar 140","Imitaion of Three Note Motif In Bars 144-158","Short Canon Between Volins In Bars 136-139 Creating Contrary Motion Scales"]
+    },
+    "Recapitilation":{
+        "Melody":["Transition: Motifs Fragmented And Repeated, Especially Falling Semiquaver Motif","Rising Chromatic Scales In Woodwinds Make Tonality Ambiguous","Rising Sequence In Strings"],
+        "Dynamics":"1st Subject: ff",
+        "Tonality":{
+            "1st Subject":null,
+            "Transition":"Does NOT Modulate, Ultimately Staying In Tonic Key (C Major)",
+            "2nd Subject":"In Tonic Key (C Major)",
+            "Codetta":"In Tonic Key (C Major)"
+        },
+        "Instrumentaion":{
+            "1st Subject":"Tutti",
+            "Transition":null,
+            "2nd Subject":"Different Combinations Of Intruments, eg Flutes And Double Clarinets Alternating With Oboes And Bassoons",
+            "Codetta":null
+        },
+        "Texture":{
+            "1st Subject":"8ves",
+            "Transition":["Antiphonal Exchanges Between Violins and Violas, Cellos And Basses","Extended Dominant Pedal Leading To Recapitulation Of 2nd Subject"],
+            "2nd Subject":null,
+            "Codetta":null
+        }
+    },
+    "Coda":{
+        "Melody":["Combines 1st Subject With Falling Arpeggios At The Very End Of The Exposition","Motivic Material Reduced To Arpeggios At The End"],
+        "Articulation":"Mainly Staccato (Similar To 1st Subject)",
+        "Dynamics":["Loud/Very Loud Throughout","Crescendo","SF Chords"],
+        "Tonality":{"Passing Modulations To: F Major":["F Major (Bar 263)","D Minor (Bar 267)"]},
+        "Harmony":["Only Chord From Bar 277 To End Is Tonic","Perfect Candence Avoided (Via Secondary Dominant) In Bars 273 And 275"],
+        "Instrumentaion":["Timpani Roll (On Tonic)","Tonic Reinforced By Horns","Sustained Chords In Wind And Brass","Double Stops In Second Violins","String Tremolos"],
+        "Rhythm/Tempo/Metre":["Syncopated Chords In Strings (Bar 271)","Tonic Chords At The End Seperated By Rests"],
+        "Texture":["Tutti For Much Of The Section","Frequent Parallel 8ves, Including All Instruments Towards The End"]
+    }
+}
