@@ -11,27 +11,31 @@ def Clear():
     else:
         os.system("clear")
 
-def PrintJSON(Dict:dict,Indent:int = 0):
+def PrintDict(Dict:dict,Indent:int = 0):
     for Key,Value in Dict.items():
         if isinstance(Value,dict):
             print(" " * Indent,f"{Key}:")
-            PrintJSON(Value,Indent + 4)
+            PrintDict(Value,Indent + 4)
         elif isinstance(Value,list):
             print(" " * Indent,f"-{Key}:")
             for Item in Value:
                 if isinstance(Item,dict):
-                    PrintJSON(Item,Indent + 4)
+                    PrintDict(Item,Indent + 4)
                 else:
                     print(" " * (Indent + 4),f"-{Item}")
         else:
             print(" " * Indent,f"{Key}:{Value}")
+
+def PrintList(List:list):
+    for Item in List:
+        print(f"-{Item}")
 
 def Main():
     print("1st Symphony Revision!")
     Parts = {1:"Introduction",2:"Exposition",3:"Development",4:"Recapitulation",5:"Coda"}
     while True:
         sleep(1)
-        print("Which part do you want elements from?: ")
+        print("Which you want elements from?: ")
         sleep(1)
         for Key in Parts:
             print(f"{Key}. {Parts[Key]}")
@@ -61,10 +65,10 @@ def Main():
                 print("Invalid Input",end = "")
         Clear()
         Element:str = Elements[ElementIndex]
-        print(f"In the {Part}, you chose to look at '{Element}'\n")
+        print(f"{Element} in the {Part}:\n")
         sleep(1)
-        PrintJSON(Terms[Part])
-        break   
+        PrintList(Terms[Part][Element])
+        break
 
-Main()
-        
+if __name__ == "__main__":
+    Main()        
