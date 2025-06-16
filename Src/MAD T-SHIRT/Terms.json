@@ -1,0 +1,11 @@
+{
+    "Melody":{
+        "Register/Tessitura":"The comfortable range of a singer or instrument, where the sound is most pleasant and clear.",
+        "Sequence":"A musical idea that is reapeted at different pithces",
+        "Scalic":"A melody that moves in moves a stepwise manner, typically up or down the scale",
+        "Broken Chord":"A chord that is played one note at a time, rather than all at once",
+        "Conjunct":"A melody that moves by small intervals, typically steps or seconds",
+        "Disjunct":"A melody that moves by larger intervals, typically leaps",
+        "Ornaments":""
+    }
+}

@@ -2,7 +2,7 @@ import json
 from time import sleep
 import os
 
-with open("/workspaces/1st-Symphony-Revision/Src/Data.json","r") as File:
+with open("/workspaces/1st-Symphony-Revision/Src/1st Symphony/Data.json","r") as File:
     Terms:dict = json.load(File)
 
 def Clear():
